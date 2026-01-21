@@ -26,7 +26,7 @@
             display: block;
             padding: 90px;
             margin-top: 60px;
-            font-size: 50px;
+            font-size: 30px;
             font-weight: bold;
             text-align: center;
             text-decoration: none;
@@ -34,4 +34,5 @@
             background-color: #000000;
             border-radius: 8px;
             transition: background-color 0.3s ease;
+
         }
